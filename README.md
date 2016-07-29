@@ -6,4 +6,6 @@ Short desc: find the correlation of rows located in .csv files. There are 11 fil
 
 /res/ folder contains copy of .csv files with tables which I used to analyse 
 
+Shittiest code ever I wrote. You have been !warned!
+
 As result I got 2nd place.
